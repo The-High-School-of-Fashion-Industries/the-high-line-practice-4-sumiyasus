@@ -18,6 +18,10 @@ color: #18524f;
 align-items: left;
 }
 
+header {
+width: 100%;
+}
+
 blockquote {
 font-style: italic;
 }
